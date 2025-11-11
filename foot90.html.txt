@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Foot 90</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+background: #f4f4f4;
+margin: 0;
+padding: 0;
+}
+header {
+background: #1e3d59;
+color: white;
+padding: 20px;
+text-align: center;
+}
+nav {
+background: #f9aa33;
+padding: 10px;
+text-align: center;
+}
+nav a {
+color: #1e3d59;
+margin: 0 15px;
+text-decoration: none;
+font-weight: bold;
+}
+section {
+padding: 20px;
+}
+footer {
+background: #1e3d59;
+color: white;
+text-align: center;
+padding: 10px;
+}
+table {
+width: 100%;
+border-collapse: collapse;
+margin-top: 10px;
+}
+th, td {
+border: 1px solid #ddd;
+padding: 8px;
+}
+th {
+background-color: #f9aa33;
+color: #1e3d59;
+}
+</style>
+</head>
+<body>
+<header>
+<h1>Foot 90</h1>
+<p>Where Soccer Lives</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#players">Players</a>
+<a href="#fixtures">Fixtures</a>
+<a href="#fan">Fan Zone</a>
+<a href="#community">Community</a>
+</nav>
+
+<section id="about">
+<h2>About Foot 90</h2>
+<p>Named after the 90-minute match that defines the sport, Foot 90 is your go-to soccer hub. We cover everything from grassroots to global tournaments, uniting fans across the world.</p>
+</section>
+
+<section id="players">
+<h2>Players & Teams</h2>
+<table>
+<tr>
+<th>Name</th>
+<th>Country</th>
+<th>Club</th>
+<th>Position</th>
+</tr>
+<tr>
+<td>Erling Haaland</td>
+<td>Norway</td>
+<td>Manchester City</td>
+<td>Striker</td>
+</tr>
+<tr>
+<td>Alexia Putellas</td>
+<td>Spain</td>
+<td>FC Barcelona</td>
+<td>Midfielder</td>
+</tr>
+<tr>
+<td>Mohamed Salah</td>
+<td>Egypt</td>
+<td>Liverpool FC</td>
+<td>Winger</td>
+</tr>
+<tr>
+<td>Trinity Rodman</td>
+<td>USA</td>
+<td>Washington Spirit</td>
+<td>Forward</td>
+</tr>
+</table>
+</section>
+
+<section id="fixtures">
+<h2>Fixtures & Results</h2>
+<p>Stay tuned for live scores, league standings, and post-match analysis. Coming soon!</p>
+</section>
+
+<section id="fan">
+<h2>Fan Zone</h2>
+<ul>
+<li>Quizzes and trivia</li>
+<li>Fantasy football tips</li>
+<li>Polls and predictions</li>
+<li>Monthly giveaways</li>
+</ul>
+</section>
+
+<section id="community">
+<h2>Join the Community</h2>
+<p>Comment on articles, share your matchday photos, and connect with fans around the world.</p>
+</section>
+
+<footer>
+<p>&copy; 2025 Foot 90. All rights reserved.</p>
+</footer>
+</body>
+</html>
